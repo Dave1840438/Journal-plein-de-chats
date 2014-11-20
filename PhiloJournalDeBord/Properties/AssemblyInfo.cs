@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Journal de bord philo")]
+[assembly: AssemblyTitle("PhiloJournalDeBord")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("clg")]
-[assembly: AssemblyProduct("Journal de bord philo")]
-[assembly: AssemblyCopyright("Copyright © clg 2014")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("PhiloJournalDeBord")]
+[assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("7c0c5567-410d-4d76-af0d-1f882a9b619f")]
+[assembly: Guid("076c9f2c-823a-4dbf-90d8-89cc7fc29ff8")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

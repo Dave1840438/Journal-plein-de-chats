@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2450BB31-3D81-4ACB-BF15-24FDF098D413}</ProjectGuid>
+    <ProjectGuid>{08E2E262-526B-4D21-8189-AB0618190AA2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Journal_de_bord_philo</RootNamespace>
-    <AssemblyName>Journal de bord philo</AssemblyName>
+    <RootNamespace>PhiloJournalDeBord</RootNamespace>
+    <AssemblyName>PhiloJournalDeBord</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -76,6 +77,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old_paper_by_walrus159-d6j5zxw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old_paper_texture_by_akaleez88.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

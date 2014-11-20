@@ -1,4 +1,4 @@
-﻿namespace Journal_de_bord_philo
+﻿namespace PhiloJournalDeBord
 {
     partial class Form1
     {
@@ -16,6 +16,7 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
+            
             }
             base.Dispose(disposing);
         }
@@ -28,33 +29,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Label_Texte = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // Label_Texte
-            // 
-            this.Label_Texte.Location = new System.Drawing.Point(51, 45);
-            this.Label_Texte.Name = "Label_Texte";
-            this.Label_Texte.Size = new System.Drawing.Size(431, 214);
-            this.Label_Texte.TabIndex = 0;
-            this.Label_Texte.Text = "bonjour je voudrais savoir comment toi, label, tu gères le texte";
-            this.Label_Texte.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(598, 622);
-            this.Controls.Add(this.Label_Texte);
+            this.BackgroundImage = global::PhiloJournalDeBord.Properties.Resources.old_paper_texture_by_akaleez88;
+            this.ClientSize = new System.Drawing.Size(601, 725);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseUp);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label Label_Texte;
     }
 }
 

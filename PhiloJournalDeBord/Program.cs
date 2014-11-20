@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Journal_de_bord_philo
+namespace PhiloJournalDeBord
 {
     static class Program
     {

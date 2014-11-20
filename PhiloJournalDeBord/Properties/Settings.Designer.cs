@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Journal_de_bord_philo.Properties
+namespace PhiloJournalDeBord.Properties
 {
 
 
