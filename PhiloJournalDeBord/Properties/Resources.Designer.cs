@@ -63,9 +63,29 @@ namespace PhiloJournalDeBord.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L {
+            get {
+                object obj = ResourceManager.GetObject("_174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L {
             get {
                 object obj = ResourceManager.GetObject("_98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bebe_chat_mignon {
+            get {
+                object obj = ResourceManager.GetObject("bebe_chat_mignon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Media;
 namespace PhiloJournalDeBord
 {
     public partial class Form1 : Form
@@ -39,6 +39,12 @@ namespace PhiloJournalDeBord
                 Point p = PointToScreen(e.Location);
                 Location = new Point(p.X - this._start_point.X, p.Y - this._start_point.Y);
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"catmoew\catmeow1.wav");
+            player.Play();
         }
     }
 }
