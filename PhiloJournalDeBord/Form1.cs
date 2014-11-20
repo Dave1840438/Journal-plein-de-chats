@@ -43,7 +43,7 @@ namespace PhiloJournalDeBord
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"catmoew\catmeow1.wav");
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"catmoew\catmeow2.wav");
             player.Play();
         }
     }
