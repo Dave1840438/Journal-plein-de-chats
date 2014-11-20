@@ -47,7 +47,16 @@ namespace PhiloJournalDeBord
             this.pictureBox1.Padding = new System.Windows.Forms.Padding(1);
             System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"catmoew\catmeow2.wav");
             player.Play();
+
+            Form_V form = new Form_V();
+
+            this.Hide();
+           form.ShowDialog();
+           this.Show();
         }
+
+     
+
 
        
     }

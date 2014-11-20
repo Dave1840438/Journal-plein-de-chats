@@ -16,7 +16,7 @@ namespace PhiloJournalDeBord
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_V());
+            Application.Run(new Form1());
         }
     }
 }
