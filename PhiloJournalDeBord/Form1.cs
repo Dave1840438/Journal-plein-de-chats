@@ -43,8 +43,12 @@ namespace PhiloJournalDeBord
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.pictureBox1.Padding = new System.Windows.Forms.Padding(1);
             System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"catmoew\catmeow2.wav");
             player.Play();
         }
+
+       
     }
 }
