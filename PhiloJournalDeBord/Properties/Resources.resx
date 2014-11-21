@@ -139,6 +139,9 @@
   <data name="chat_mignon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chat-mignon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="cute_cat_fuuny_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cute-cat-fuuny-image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="funny_cats_in_prear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\funny_cats_in_prear.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -153,6 +156,9 @@
   </data>
   <data name="images__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kaeruhk2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kaeruhk2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pictures_of_cute_cats_wearing_beautiful_hats__16_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pictures of cute cats wearing beautiful hats (16).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

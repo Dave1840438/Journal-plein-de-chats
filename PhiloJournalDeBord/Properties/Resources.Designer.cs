@@ -133,6 +133,16 @@ namespace PhiloJournalDeBord.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cute_cat_fuuny_image {
+            get {
+                object obj = ResourceManager.GetObject("cute_cat_fuuny_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap funny_cats_in_prear {
             get {
                 object obj = ResourceManager.GetObject("funny_cats_in_prear", resourceCulture);
@@ -176,6 +186,16 @@ namespace PhiloJournalDeBord.Properties {
         internal static System.Drawing.Bitmap images__1_ {
             get {
                 object obj = ResourceManager.GetObject("images__1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kaeruhk2 {
+            get {
+                object obj = ResourceManager.GetObject("kaeruhk2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

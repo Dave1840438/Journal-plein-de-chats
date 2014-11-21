@@ -160,9 +160,6 @@
     <None Include="Resources\Halloween-l.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Pictures of cute cats wearing beautiful hats %2816%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\unnamed.png" />
   </ItemGroup>
   <ItemGroup>
@@ -170,6 +167,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaeruhk2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures of cute cats wearing beautiful hats %2816%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cute-cat-fuuny-image.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
