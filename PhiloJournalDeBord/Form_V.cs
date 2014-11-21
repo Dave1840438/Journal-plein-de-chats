@@ -36,10 +36,16 @@ namespace PhiloJournalDeBord
             label1.AutoSize = true;
             label1.MaximumSize = new System.Drawing.Size(588, 9999999);
             label1.Font = new System.Drawing.Font("Comic Sans MS", 14, FontStyle.Regular);
+            label1.MouseDown += Form_V_MouseDown;
+            label1.MouseUp += Form_V_MouseUp;
+            label1.MouseMove += Form_V_MouseMove;
 
             cflp.AutoSize = false;
             cflp.AutoScroll = true;
             cflp.Size = new System.Drawing.Size(588, 500);
+            cflp.MouseDown += Form_V_MouseDown;
+            cflp.MouseUp += Form_V_MouseUp;
+            cflp.MouseMove += Form_V_MouseMove;
             cflp.MouseEnter += cflp_MouseEnter;
             cflp.Controls.Add(label1);
             this.Controls.Add(cflp);
@@ -57,6 +63,7 @@ namespace PhiloJournalDeBord
             foreach (string s in texteV)
                 label1.Text += s + '\n';
 
+            cflp.Focus();
         }
 
         private void cflp_MouseEnter(object sender, EventArgs e)
