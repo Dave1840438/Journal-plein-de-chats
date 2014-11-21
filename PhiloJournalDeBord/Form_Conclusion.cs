@@ -142,5 +142,41 @@ namespace PhiloJournalDeBord
             base.OnScroll(se);
         }
 
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+
+            this.Hide();
+            form.ShowDialog();
+            this.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form_Experiences form = new Form_Experiences();
+
+            this.Hide();
+            form.ShowDialog();
+            this.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form_V form = new Form_V();
+
+            this.Hide();
+            form.ShowDialog();
+            this.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form_La_Vague form = new Form_La_Vague();
+
+            this.Hide();
+            form.ShowDialog();
+            this.Show();
+        }
+
     }
 }
