@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace PhiloJournalDeBord
 {
-    public partial class Form_V : Form
+    public partial class Form_Conclusion : Form
     {
         int page = 1;
         string[] texteV;
@@ -24,7 +24,7 @@ namespace PhiloJournalDeBord
         CustomFlowLayoutPanel cflp = new CustomFlowLayoutPanel();
         Label label1 = new Label();
 
-        public Form_V()
+        public Form_Conclusion()
         {
             this.DoubleBuffered = true;
 
@@ -32,30 +32,28 @@ namespace PhiloJournalDeBord
             this.SetStyle(ControlStyles.AllPaintingInWmPaint, true);
             this.SetStyle(ControlStyles.OptimizedDoubleBuffer, true);
 
-
-
             InitializeComponent();
             label1.AutoSize = true;
             label1.MaximumSize = new System.Drawing.Size(588, 9999999);
             label1.Font = new System.Drawing.Font("Comic Sans MS", 14, FontStyle.Regular);
-            label1.MouseDown += Form_V_MouseDown;
-            label1.MouseUp += Form_V_MouseUp;
-            label1.MouseMove += Form_V_MouseMove;
+            label1.MouseDown += Form_Conclusion_MouseDown;
+            label1.MouseUp += Form_Conclusion_MouseUp;
+            label1.MouseMove += Form_Conclusion_MouseMove;
 
             cflp.Location = new Point(50, 50);
             cflp.AutoSize = false;
             cflp.AutoScroll = true;
             cflp.Size = new System.Drawing.Size(588, 500);
-            cflp.MouseDown += Form_V_MouseDown;
-            cflp.MouseUp += Form_V_MouseUp;
-            cflp.MouseMove += Form_V_MouseMove;
+            cflp.MouseDown += Form_Conclusion_MouseDown;
+            cflp.MouseUp += Form_Conclusion_MouseUp;
+            cflp.MouseMove += Form_Conclusion_MouseMove;
             cflp.MouseEnter += cflp_MouseEnter;
             cflp.Controls.Add(label1);
             this.Controls.Add(cflp);
 
             try
             {
-                texteV = File.ReadAllLines("V pour vendetta.txt", Encoding.Default);
+                texteV = File.ReadAllLines("Conclusion.txt", Encoding.Default);
             }
             catch
             {
@@ -99,7 +97,7 @@ namespace PhiloJournalDeBord
             }
         }
 
-        private void Form_V_Load(object sender, EventArgs e)
+        private void Form_Conclusion_Load(object sender, EventArgs e)
         {
 
         }
@@ -109,19 +107,19 @@ namespace PhiloJournalDeBord
             this.Close();
         }
 
-        private void Form_V_MouseDown(object sender, MouseEventArgs e)
+        private void Form_Conclusion_MouseDown(object sender, MouseEventArgs e)
         {
             _dragging = true;  // _dragging is your variable flag
             _start_point = new Point(e.X, e.Y);
 
         }
 
-        private void Form_V_MouseUp(object sender, MouseEventArgs e)
+        private void Form_Conclusion_MouseUp(object sender, MouseEventArgs e)
         {
             _dragging = false;
         }
 
-        private void Form_V_MouseMove(object sender, MouseEventArgs e)
+        private void Form_Conclusion_MouseMove(object sender, MouseEventArgs e)
         {
             if (_dragging)
             {

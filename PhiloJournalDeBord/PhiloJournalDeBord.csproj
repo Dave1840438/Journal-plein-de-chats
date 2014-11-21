@@ -44,11 +44,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Conclusion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Conclusion.Designer.cs">
+      <DependentUpon>Form_Conclusion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Experiences.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Experiences.Designer.cs">
+      <DependentUpon>Form_Experiences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_La_Vague.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_La_Vague.Designer.cs">
+      <DependentUpon>Form_La_Vague.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_V.cs">
       <SubType>Form</SubType>
@@ -60,6 +81,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Conclusion.resx">
+      <DependentUpon>Form_Conclusion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Experiences.resx">
+      <DependentUpon>Form_Experiences.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_La_Vague.resx">
+      <DependentUpon>Form_La_Vague.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_V.resx">
       <DependentUpon>Form_V.cs</DependentUpon>

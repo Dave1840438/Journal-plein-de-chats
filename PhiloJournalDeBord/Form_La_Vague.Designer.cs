@@ -1,6 +1,6 @@
 ﻿namespace PhiloJournalDeBord
 {
-    partial class Form_V
+    partial class Form_La_Vague
     {
         /// <summary>
         /// Required designer variable.
@@ -41,7 +41,7 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // Form_V
+            // Form_La_Vague
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -50,12 +50,12 @@
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.HelpButton = true;
-            this.Name = "Form_V";
-            this.Text = "Form_V";
-            this.Load += new System.EventHandler(this.Form_V_Load);
-            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form_V_MouseDown);
-            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form_V_MouseMove);
-            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form_V_MouseUp);
+            this.Name = "Form_La_Vague";
+            this.Text = "Form_La_Vague";
+            this.Load += new System.EventHandler(this.Form_La_Vague_Load);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form_La_Vague_MouseDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form_La_Vague_MouseMove);
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form_La_Vague_MouseUp);
             this.ResumeLayout(false);
 
         }
