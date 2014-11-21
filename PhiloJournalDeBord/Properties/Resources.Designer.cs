@@ -73,9 +73,109 @@ namespace PhiloJournalDeBord.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _263790_5_ {
+            get {
+                object obj = ResourceManager.GetObject("_263790_5_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _91370_786674141_chat_menteur_H171157_L {
+            get {
+                object obj = ResourceManager.GetObject("_91370_786674141_chat_menteur_H171157_L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L {
             get {
                 object obj = ResourceManager.GetObject("_98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bebe_chat_mignon {
+            get {
+                object obj = ResourceManager.GetObject("bebe_chat_mignon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap certainement_le_chaton_le_plus_mignon_du {
+            get {
+                object obj = ResourceManager.GetObject("certainement_le_chaton_le_plus_mignon_du", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chat_mignon {
+            get {
+                object obj = ResourceManager.GetObject("chat_mignon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap funny_cats_in_prear {
+            get {
+                object obj = ResourceManager.GetObject("funny_cats_in_prear", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Halloween_l {
+            get {
+                object obj = ResourceManager.GetObject("Halloween_l", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hermitage_museum_cat_portraits_081413 {
+            get {
+                object obj = ResourceManager.GetObject("hermitage_museum_cat_portraits_081413", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images__1_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -96,6 +196,46 @@ namespace PhiloJournalDeBord.Properties {
         internal static System.Drawing.Bitmap old_paper_texture_by_akaleez88 {
             get {
                 object obj = ResourceManager.GetObject("old_paper_texture_by_akaleez88", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Pictures_of_cute_cats_wearing_beautiful_hats__16_ {
+            get {
+                object obj = ResourceManager.GetObject("Pictures_of_cute_cats_wearing_beautiful_hats__16_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sleeping_cat {
+            get {
+                object obj = ResourceManager.GetObject("sleeping_cat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap unnamed {
+            get {
+                object obj = ResourceManager.GetObject("unnamed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vCZTrS_Teb9j7qIylg2KhQIRD1U {
+            get {
+                object obj = ResourceManager.GetObject("vCZTrS_Teb9j7qIylg2KhQIRD1U", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

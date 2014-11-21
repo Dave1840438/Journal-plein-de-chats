@@ -16,10 +16,10 @@ namespace PhiloJournalDeBord
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_V());
-            Application.Run(new Form_La_Vague());
-            Application.Run(new Form_Conclusion());
-            Application.Run(new Form_Experiences());
+          // Application.Run(new Form_V());
+            //Application.Run(new Form_La_Vague());
+         // Application.Run(new Form_Conclusion());
+            //Application.Run(new Form_Experiences());
         }
     }
 }

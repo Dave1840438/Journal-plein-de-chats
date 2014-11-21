@@ -26,7 +26,6 @@ namespace PhiloJournalDeBord
             _start_point = new Point(e.X, e.Y);
 
         }
-
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
             _dragging = false; 

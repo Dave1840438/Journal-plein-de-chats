@@ -115,9 +115,9 @@
             this.label6.Font = new System.Drawing.Font("Forte", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(116, 647);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(332, 22);
+            this.label6.Size = new System.Drawing.Size(328, 22);
             this.label6.TabIndex = 6;
-            this.label6.Text = "Click sur son Bedon Pour Entrer --->";
+            this.label6.Text = "Click sur son Bidon Pour Entrer --->";
             // 
             // Form1
             // 
@@ -134,7 +134,6 @@
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
-            //this.Text = "Form1";
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseUp);

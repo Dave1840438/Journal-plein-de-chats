@@ -118,19 +118,58 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\91370_786674141_chat_menteur_H171157_L.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bebe-chat-mignon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\certainement-le-chaton-le-plus-mignon-du.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\old_paper_by_walrus159-d6j5zxw.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\old_paper_texture_by_akaleez88.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\98029_X2ST3IZU7RRDNP7GGIQIQLQTU3POEF_petit_chat_H141558_L.jpg" />
+    <None Include="Resources\vCZTrS_Teb9j7qIylg2KhQIRD1U.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\bebe-chat-mignon.jpg" />
+    <None Include="Resources\hermitage-museum-cat-portraits-081413.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L.jpg" />
+    <None Include="Resources\funny_cats_in_prear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\263790_5_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat-mignon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Halloween-l.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures of cute cats wearing beautiful hats %2816%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sleeping-cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

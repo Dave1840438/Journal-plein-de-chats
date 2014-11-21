@@ -130,4 +130,46 @@
   <data name="_174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\174390_KSPTQGK72COW8EZKJTR5H76JPPII3P_chatchat_H100446_L.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bebe_chat_mignon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bebe-chat-mignon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="certainement_le_chaton_le_plus_mignon_du" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\certainement-le-chaton-le-plus-mignon-du.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chat_mignon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chat-mignon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="funny_cats_in_prear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\funny_cats_in_prear.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Halloween_l" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Halloween-l.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hermitage_museum_cat_portraits_081413" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hermitage-museum-cat-portraits-081413.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pictures_of_cute_cats_wearing_beautiful_hats__16_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pictures of cute cats wearing beautiful hats (16).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sleeping_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sleeping-cat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vCZTrS_Teb9j7qIylg2KhQIRD1U" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vCZTrS_Teb9j7qIylg2KhQIRD1U.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_263790_5_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\263790_5_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_91370_786674141_chat_menteur_H171157_L" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\91370_786674141_chat_menteur_H171157_L.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
